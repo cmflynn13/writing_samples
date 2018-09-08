@@ -13,5 +13,6 @@ This repository contains final projects for two classes during my post-grad prog
 
       - [Strategic Analysis](https://github.com/cmflynn13/writing_samples/blob/master/Strategic%20Analysis%20.pdf):
             - strategic analysis of Tyson Foods, a vertically integrated food industry giant
-            - offers managerial recommendations to improve market position and performance, as well as future proofing for an impending health conscious market 
+            - offers managerial recommendations to improve market position and performance,
+            - discusses future proofing for an impending health conscious market 
             - includes market and company meta-analysis 
