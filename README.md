@@ -16,3 +16,6 @@ This repository contains final projects for two classes during my post-grad prog
             - offers managerial recommendations to improve market position and performance \
             - discusses future proofing for an impending health conscious market \
             - includes market and company meta-analysis 
+
+
+_Projects can be found [here](https://github.com/cmflynn13/projects/tree/master)_
